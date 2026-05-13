@@ -41,5 +41,4 @@ The goal of the project was to compare execution times between CPU and GPU imple
 
 ### Compile
 
-```bash
-nvcc main.cu -o project
+python final_demo.py
